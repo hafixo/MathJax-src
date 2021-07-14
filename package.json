@@ -52,7 +52,7 @@
     "tslint": "^6.1.1",
     "tslint-jsdoc-rules": "^0.2.0",
     "tslint-unix-formatter": "^0.2.0",
-    "typescript": "~3.8.3",
+    "typescript": "~3.9.10",
     "typescript-tools": "^0.3.1",
     "uglifyjs-webpack-plugin": "^2.2.0",
     "webpack": "^4.42.1",
